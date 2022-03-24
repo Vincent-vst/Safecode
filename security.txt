@@ -1,0 +1,13 @@
+
+This file is for conctating us in case you found any security issues with the folowing code.
+
+Contact : vincent.descatoire@etu.univ-lyon1.fr
+
+Encryption : pyvault, bcrypt
+
+Canonical : https://forge.univ-lyon1.fr/p2007609/gestionnaire-de-mots-de-passe
+
+Policy : Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+ 
+
