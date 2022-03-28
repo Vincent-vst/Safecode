@@ -43,10 +43,10 @@ or
 
 ## 💾 About   
 
-contact : [vincent](https://www.github.com/Vincent-vst)
-realease date : 24/03/2022  
-version : 2 
-project link : https://github.com/Vincent-vst/Safecode   
+contact : [vincent](https://www.github.com/Vincent-vst)    
+realease date : 24/03/2022    
+version : 2    
+project link : https://github.com/Vincent-vst/Safecode     
 
 
 ## 📝 License   
