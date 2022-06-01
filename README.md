@@ -8,6 +8,10 @@ It's a cross-platform software available on :
 - Android   
 - iOs   
 
+## Presentation  
+
+https://www.youtube.com/watch?v=si-ClTvbyQ4&ab_channel=SafeCode  
+
 ## 👤 Author  
 
 Martin (project manager)   
